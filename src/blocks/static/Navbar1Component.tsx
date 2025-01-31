@@ -113,7 +113,7 @@ function Header() {
               <div className="block pt-4 w-full">
                 <a
                   href="#"
-                  className="whitespace-nowrap inline-flex items-center text-white bg-black hover:bg-primary-800 font-medium rounded-[.5rem] text-sm px-5 py-2.5 text-center"
+                  className="whitespace-nowrap inline-flex items-center hover:bg-primary-800 font-medium rounded-[.5rem] text-sm px-5 py-2.5 text-center cursor-pointer  border-[0.125em] justify-center w-full border-solid border-black bg-black text-[#fcfbf9]"
                 >
                   <span>Sign Up</span>
                 </a>

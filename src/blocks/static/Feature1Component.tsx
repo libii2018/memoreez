@@ -14,7 +14,7 @@ function FeatureBlock() {
           <div className="flex flex-col items-center justify-center md:w-1/2 px-0 md:px-2 lg:px-10">
             <div className="w-full h-[437px] md:h-[537px] lg:h-[637px] p-6 md:px-[54px] md:py-[160px] ld:px-[74px] ld:py-[190px] rounded-[8px] bg-[#CAB1AC]">
               <img
-                src="/10.gif"
+                src="/Memoreez_images/covers.gif"
                 alt="image feature"
                 className="w-full h-full aspect-square object-contain"
               />
@@ -42,7 +42,7 @@ function FeatureBlock() {
           <div className="flex flex-col items-center justify-center md:w-1/2 px-0 md:px-2 lg:px-10">
             <div className="w-full h-[437px] md:h-[537px] lg:h-[637px] p-6 md:px-[54px] md:py-[160px] ld:px-[74px] ld:py-[190px] rounded-[8px] bg-[#A0AC98]">
               <img
-                src="/11.png"
+                src="/Memoreez_images/PasswordSection.png"
                 alt="image feature"
                 className="w-full h-full aspect-square object-contain"
               />
@@ -70,7 +70,7 @@ function FeatureBlock() {
           <div className="flex flex-col items-center justify-center md:w-1/2 px-0 md:px-2 lg:px-10">
             <div className="w-full h-[437px] md:h-[537px] lg:h-[637px] p-6 md:px-[54px] md:py-[160px] ld:px-[74px] ld:py-[190px] rounded-[8px] bg-[#806651]">
               <img
-                src="/12.png"
+                src="/Memoreez_images/downloadSection.png"
                 alt="image feature"
                 className="w-full h-full aspect-square object-contain"
               />
@@ -98,7 +98,7 @@ function FeatureBlock() {
           <div className="flex flex-col items-center justify-center md:w-1/2 px-0 md:px-2 lg:px-10">
             <div className="w-full h-[437px] md:h-[537px] lg:h-[637px] p-6 md:px-[54px] md:py-[160px] ld:px-[74px] ld:py-[190px] rounded-[8px] bg-[#F8F7F5]">
               <img
-                src="/13.png"
+                src="/Memoreez_images/FavoriteSection.png"
                 alt="image feature"
                 className="w-full h-full aspect-square object-contain"
               />

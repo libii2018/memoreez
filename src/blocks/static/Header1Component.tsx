@@ -14,9 +14,9 @@ function Component() {
           Wow your client with
         </p>
       </div>
-      <div className="flex flex-col max-w-4xl mx-auto justify-end items-end">
+      <div className="flex flex-col w-full mx-auto justify-end items-end">
         <img
-          src="/14.png"
+          src="/Memoreez_images/MemoreezHeroWithBlocks.png"
           alt=""
           className="mx-auto sm:w-[1300px] sm:px-5 md:h-auto object-center"
         />
